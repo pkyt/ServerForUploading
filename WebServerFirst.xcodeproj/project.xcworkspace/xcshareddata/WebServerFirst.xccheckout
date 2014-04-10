@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>001069CD-6124-4361-A34F-4AF080CE8611</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WebServerFirst</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>98A38C54-6E7C-4949-A4C7-DFA556F609B7</key>
+		<string>https://github.com/pkyt/WebServer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebServerFirst.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>98A38C54-6E7C-4949-A4C7-DFA556F609B7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pkyt/WebServer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98A38C54-6E7C-4949-A4C7-DFA556F609B7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98A38C54-6E7C-4949-A4C7-DFA556F609B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WebServer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
